@@ -32,3 +32,7 @@ tiempo_aprendizaje <- tiempo_platzi + tiempo_lecturas
 tiempo_aprendizaje
 
 
+dias_aprendizaje <- c('Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes')
+dias_aprendizaje
+
+dias_mas_20min
