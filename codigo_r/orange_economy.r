@@ -35,4 +35,20 @@ tiempo_aprendizaje
 dias_aprendizaje <- c('Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes')
 dias_aprendizaje
 
+dias_mas_20min <- c(TRUE, FALSE, FALSE, TRUE, TRUE)
 dias_mas_20min
+
+vector_false <- c(FALSE, FALSE, FALSE, FALSE, FALSE)
+vector_false
+
+
+#Logic operators
+logic_products <- dias_mas_20min | vector_false
+logic_products
+
+#Suma total obteniendo un solo resultado
+total_tiempo <- sum(tiempo_platzi)
+total_tiempo
+
+
+
